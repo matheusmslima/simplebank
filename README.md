@@ -1,2 +1,0 @@
-# simplebank
-Simple bank application.
